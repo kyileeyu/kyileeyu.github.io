@@ -21,7 +21,7 @@ module.exports = {
       github: `https://github.com/kyileeyu`,
       linkedIn: `https://www.linkedin.com/in/seunghyun-yu-558819193/`,
       email: `kyileeeyu@gmail.com`,
-      naver: `https://blog.naver.com/tmdgus5514`,
+      // naver: `https://blog.naver.com/tmdgus5514`,
     },
   },
 
